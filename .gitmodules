@@ -1,0 +1,3 @@
+[submodule "RepoA_Shared"]
+	path = RepoA_Shared
+	url = https://github.com/rajiv1024/RepoA
